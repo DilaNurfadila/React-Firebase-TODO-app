@@ -2,7 +2,7 @@
 
 ### What is React?
 
-React is the most popular JavaScript front-end framework / library in use today. It's used by both established companies and new startups.
+React is a JavaScript library for building user interfaces. It's the most popular JavaScript front-end library in use today, also used by both established companies and new startups.
 
 ### What is Firebase?
 
@@ -24,6 +24,7 @@ Footnote:
 
 1. https://www.codecademy.com/resources/blog/what-is-react/
 2. https://firebase.google.com/
+3. https://reactjs.org/
 
 .
 
